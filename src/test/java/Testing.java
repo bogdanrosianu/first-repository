@@ -20,7 +20,7 @@ public class Testing {
         int rez = test.aduna(a,b);
 
         //assert
-        Assert.assertTrue(rez == 10);
+        Assert.assertTrue(rez == 12);
 
     }
 }
